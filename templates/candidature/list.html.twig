@@ -1,0 +1,9 @@
+<ul>
+		{% for list in lalist %}
+			<li>
+				{{list.Nom}} - {{list.Prenom}}
+			</li>
+		{% else %}
+			<li>Pas de candidature</li>
+		{% endfor %}
+</ul>

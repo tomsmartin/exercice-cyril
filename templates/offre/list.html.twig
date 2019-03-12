@@ -1,0 +1,9 @@
+<ul>
+		{% for list in lalist %}
+			<li>
+				{{list.Titre}}
+			</li>
+		{% else %}
+			<li>Pas d'offre</li>
+		{% endfor %}
+</ul>
