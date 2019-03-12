@@ -42,32 +42,32 @@ Par conséquent pour créer un nouveau job il faut se rendre sur :
 Pour update un job :
   - /job/edit/{id}
 Pour voir la liste des jobs :
-    - /job/list
+  - /job/list
 
 Pour créer un nouveau contrat il faut se rendre sur :
   - /contrat/new
 Pour update un contrat :
   - /contrat/edit/{id}
 Pour voir la liste des contrats :
-    - /contrat/list
+  - /contrat/list
 
 Pour créer une nouvelle compétence il faut se rendre sur :
   - /competence/new
 Pour update une compétence :
   - /competence/edit/{id}
 Pour voir la liste des compétences :
-    - /competence/list
+  - /competence/list
 
 Pour créer une nouvelle candidature il faut se rendre sur :
   - /candidature/new
 Pour update une candidature :
   - /candidature/edit/{id}
 Pour voir la liste des candidatures :
-    - /candidature/list
+  - /candidature/list
 
 Pour créer une nouvelle offre il faut se rendre sur :
   - /offre/new
 Pour update une offre :
   - /offre/edit/{id}
 Pour voir la liste des offres :
-    - /offre/list
+  - /offre/list
